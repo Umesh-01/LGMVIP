@@ -1,2 +1,2 @@
-# VIP
-Repository for VIP
+# LGMVIP
+LGMVIP_Android_SEPTEMBER Task Submission
